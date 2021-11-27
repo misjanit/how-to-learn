@@ -261,9 +261,9 @@ div {
 }
 
 .table_theme_dark {
-  display: flex; 
+  display: flex;
   justify-content: space-between;
-  margin: 0px 230px 90px 230px; 
+  margin: 0px 230px 90px 230px;
   /* при выставлении margin:auto для левой и правой сторон, таблица расширяется до краев экрана  */
   padding-left: 0px;
   flex-wrap: wrap;
