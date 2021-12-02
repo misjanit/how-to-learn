@@ -92,7 +92,7 @@
 
 .two-columns__brief {
   width: 175px;
-  line-height: 1,2;
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
@@ -135,7 +135,7 @@
   width: 60%;
   align-items: center;
   justify-content: center;
-  line-height: 1,15px;
+  line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
 }
@@ -155,7 +155,7 @@
   display: flex;
   width: 1100px;
   flex-wrap: wrap; /* для переноса блоков на другую строку */
-  margin: 0px auto 40px auto;
+  margin: 0px auto 0px auto;
   padding: 0;
   justify-content: space-between;
   align-content: space-between;
@@ -170,7 +170,7 @@
 
 .table__heading {
   display: block;
-  line-height: 1,15;
+  line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
   margin: 0;
@@ -178,7 +178,7 @@
 }
 
 .table__text {
-  line-height: 1,2px;
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   margin: 20px 0px 0px 0px;
@@ -197,7 +197,7 @@
 .feynman__title {
   margin: 0px auto 70px auto;
   padding: 100px 0px 0px 0px;
-  line-height: 1,15px;
+  line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
   text-align: center;
@@ -237,7 +237,7 @@
 
 .section-title_theme_dark {
   margin-top: 90px;
-  line-height: 1,15;
+  line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
   color: white;
@@ -257,13 +257,13 @@
 
 .table__heading_theme_dark {
   margin-bottom: 20px;
-  line-height: 1,15;
+  line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 
 .table__text_theme_dark {
-  line-height: 1,2;
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
 }
@@ -325,9 +325,6 @@
 .footer__column-links {
   list-style: none;
   padding: 0px;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: bold;
   margin: 0px 0px 16px 0px;
 }
 
