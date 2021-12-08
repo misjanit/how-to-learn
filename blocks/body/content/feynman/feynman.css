@@ -1,0 +1,9 @@
+.feynman {
+    position: relative;
+    min-height: 890px;
+    background-image: url(../../../../images/feynman.png); 
+    /* можно поставить всего 1 слеш, но я не уверен, что ревьюер будет смотреть через лайв-сервер */
+    background-repeat: no-repeat;
+    background-color: #f2f2f2;
+    background-position: left 0px bottom 0px;
+  }
