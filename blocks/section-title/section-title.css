@@ -1,0 +1,12 @@
+.section-title {
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+    /*оставлю код выше на случай третьей мировой*/
+    margin: 0px auto 20px auto;
+    width: 60%;
+    text-align: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: bold;
+  }
